@@ -1,4 +1,4 @@
-MACHINE PROBLEM 1: Early Warning Tool Using KNIME
+### MACHINE PROBLEM 1: Early Warning Tool Using KNIME
 
 This project uses KNIME Analytics Platform to build a machine learning model that predicts student risk status (`At Risk` or `Not At Risk`) based on academic performance data.
 
