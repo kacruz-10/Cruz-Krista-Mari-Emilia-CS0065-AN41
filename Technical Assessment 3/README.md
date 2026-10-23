@@ -1,4 +1,4 @@
-### Case-Based Reasoning System: Disaster Response Decision Support System
+# Case-Based Reasoning System: Disaster Response Decision Support System
 
 This project implements a Case-Based Reasoning (CBR) system in Python to assist local government units with disaster response decisions by retrieving past disaster cases, adapting solutions based on population size, and retaining new learning experiences.
 
