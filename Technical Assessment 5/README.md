@@ -1,4 +1,4 @@
-#Sentiment Analysis
+# Sentiment Analysis
 
 This project implements two sentiment analysis programs in Python: one using the `TextBlob` library to classify 10 sentences by polarity, and another using custom word-matching lexicons to detect happy and sad tones.
 
