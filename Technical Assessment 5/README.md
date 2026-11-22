@@ -3,8 +3,8 @@
 This project implements two sentiment analysis programs in Python: one using the `TextBlob` library to classify 10 sentences by polarity, and another using custom word-matching lexicons to detect happy and sad tones.
 
 ## Files
-- `TA5_Cruz_activity.ipynb` - Python notebook containing the TextBlob sentiment analysis script (Section VI)
-- `TA5_Cruz_challenge.ipynb` - Python notebook containing the lexicon-based happy/sad word counter script (Section VII)
+- `TA5_Cruz_activity.py` - Python notebook containing the TextBlob sentiment analysis script (Section VI)
+- `TA5_Cruz_challenge.py` - Python notebook containing the lexicon-based happy/sad word counter script (Section VII)
 - `TA5_Cruz.pdf` - Completed laboratory exercise document with code, outputs, and screenshots
 - `happy_words.txt` - Text dataset containing a list of happy words
 - `sad_words.txt` - Text dataset containing a list of sad words
